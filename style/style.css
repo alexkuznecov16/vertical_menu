@@ -168,7 +168,7 @@ body {
     z-index: 1;
     top: 90px;
     width: 90%;
-    margin: 0 10%;
+    margin-left: 10%;
 }
 
 /** main wrapper settings */
@@ -330,19 +330,14 @@ body {
     }
 
     /* main settings */
-    .main {
+    /* .main {
         margin: 0 20%;
-    }
+    } */
 
     .card {
         width: 200px;
         font-size: 10px;
     }
-
-        /* footer settings */
-        .footer {
-            width: 110%;
-        }
 }
 
 /*? max-width 330px ----------------------------------*/
