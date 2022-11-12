@@ -320,16 +320,6 @@ body {
     .sidenav {
         width: 15%;
     }
-
-    /* main settings */
-    .main {
-        margin: 0 15%;
-    }
-
-    /* footer settings */
-    .footer {
-        width: 105%;
-    }
 }
 
 /*? max-width 420px ----------------------------------*/
